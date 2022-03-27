@@ -18,5 +18,5 @@ class MySingleton {
     }
 }
 
-let myInstance: MySingleton = MySingleton.getInstance();
+let myInstance:MySingleton  = MySingleton.getInstance();
 myInstance.logic();
